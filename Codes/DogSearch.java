@@ -1,8 +1,7 @@
 public class DogSearch {
 
  public static void main(String[] args) {
-    //This code will not compile correctly until you fix it.
-    //
+    
     //We are trying to count the number of times the word
     //dog appears in some input text, but we can't seem to
     //remember the appropriate method call in the String class,
