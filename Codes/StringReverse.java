@@ -1,7 +1,5 @@
 //Input string from user and printing its reverse.
 
-
-package stringpractice;
 import java.util.*;
 
 class StringReverse{
