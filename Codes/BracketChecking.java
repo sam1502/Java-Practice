@@ -1,12 +1,11 @@
 //Given  strings of brackets, determine whether each sequence of brackets is balanced.
 //If a string is balanced, print true on a new line; otherwise, print False on a new line.
 
-package stringpractice;
 import java.util.*;
 public class BracketChecking{
 public static boolean CheckParentesis(String str)
 {
-    if (str.isEmpty())
+    if (str.isEmpty())			//Empty String is considered as TRUE.
         return true;
 
     Stack<Character> stack = new Stack<Character>();
