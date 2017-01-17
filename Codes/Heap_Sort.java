@@ -19,6 +19,7 @@ public class Heap_Sort {
 		int l =2*i+1;
 		int r = 2*i+2;
 		
+		//if left child is larger than root.
 		if(l<n && arr[l]>arr[largest]){
 			largest = l;
 		}
