@@ -1,4 +1,5 @@
 // Counting the Number of Elements in a Linked List.
+//Iterative Solution
 class Node
 {
     int data;
