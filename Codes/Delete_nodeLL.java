@@ -1,3 +1,4 @@
+//Simple Java Program
 // Deletion from Linked List.
 
 class Delete_nodeLL
