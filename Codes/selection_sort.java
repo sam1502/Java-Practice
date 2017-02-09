@@ -1,5 +1,6 @@
 // Simple Java code for Selection Sort
 // Function to sort array (Selection sort)
+
 public class selection_sort {
 	
 	void sort(int arr[])
