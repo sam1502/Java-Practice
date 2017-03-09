@@ -1,3 +1,6 @@
+// Java program to detetct loop in a linked list and remove it.
+
+
 class loop_LinkedList {
     static Node head;
     static class Node {
