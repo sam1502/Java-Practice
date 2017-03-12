@@ -1,3 +1,5 @@
+//Pop and push function with underflow and overflow condition.
+
 
 public class Stack_arrays {
 	static final int max = 1000;
