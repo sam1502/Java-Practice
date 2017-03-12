@@ -1,3 +1,5 @@
+// String reverse using stack.
+
 package stringpractice;
 
 import java.util.Scanner;
