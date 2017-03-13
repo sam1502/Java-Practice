@@ -1,3 +1,5 @@
+//Remove all the duplicates from an array.
+
 import java.util.Scanner;
 
 public class UniqueEle_Array {
