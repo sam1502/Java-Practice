@@ -1,3 +1,5 @@
+//Implementation and operations on Queue using Arrays.
+
 import java.util.*;
 
 class arrayQueue
