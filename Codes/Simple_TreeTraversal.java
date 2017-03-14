@@ -1,3 +1,5 @@
+//Implementation of simple Inorder, Preorder and Postorder in java.
+
 class Node{
 	int key;
 	Node left, right;
