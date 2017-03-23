@@ -1,3 +1,5 @@
+//Given an unsorted array of numbers, write a function that returns true if array consists of consecutive numbers.
+
 public class consecutivElements_Array {
 	
 	int getMin(int arr[], int n){
