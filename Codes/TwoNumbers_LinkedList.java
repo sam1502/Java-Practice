@@ -1,3 +1,6 @@
+//Given two numbers represented by two lists, write a function that returns sum list.
+//The sum list is list representation of addition of two input numbers.
+
 class TwoNumbers_LinkedList {
  
     static Node head1, head2;
