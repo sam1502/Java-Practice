@@ -1,8 +1,8 @@
 import java.util.HashSet;
 
-
-
-
+//Given an unsorted array that may contain duplicates.
+//Also given a number k which is smaller than size of array.
+//Write a function that returns true if array contains duplicates within k distance.
 
 public class duplicateWithinKindices_Array {
 	
