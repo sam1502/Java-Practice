@@ -1,6 +1,7 @@
 //You have been given 3 integers l,r and k.
 //Find how many numbers between land r (both inclusive) are divisible by k.
 //You do not need to print these numbers, you just have to find their count.
+////Example: l=1 ,r=10 , k=2; answer = 5;
 
 import java.util.*;
 
