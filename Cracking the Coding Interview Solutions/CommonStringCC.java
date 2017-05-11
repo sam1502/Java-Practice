@@ -1,3 +1,9 @@
+//You are given 2 strings: string, strong. Find the common alphabets in two strings and print it. 
+//i/p: string , strong 
+//o/p: strng
+
+
+
 package com.Practice;
 
 import java.util.Scanner;
