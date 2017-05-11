@@ -1,3 +1,6 @@
+// Program to check if the given input of integer numbers is binary or not.
+
+
 package JavaConceptOfTheDay;
 
 import java.util.Scanner;
