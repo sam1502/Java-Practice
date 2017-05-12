@@ -1,4 +1,4 @@
-//Our recommendation engine looks at the items that users buy together. For example, a user that buys Harry Potter 1 likely will buy Harry Potter 2. 
+//Our recommendation engine looks at the items that users buy together.
 //Write a function that will output the largest item association given an input of item association pairs. 
 //Example Input :  {(1,2),(3,4),(4,5),(5,6)}
 // Output : {(1,2),(3,6)}
