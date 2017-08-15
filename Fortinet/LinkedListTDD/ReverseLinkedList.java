@@ -1,17 +1,31 @@
+public class ReverseLinkedList {
 
+    public void reverseLinkedList(LinkedList list) {
 
-public class ReverseLinkedList{
-public void reverse(LinkedList list) {
-	Node prev = null;
-    Node current = null;
-    Node next = null;
-    while (current != null) {
+        boolean firstReverse = true;
+        Node prev = null;
+        Node current = null;
+        Node next = null;
+
+        prev = list.head;
+        current = prev.next;
         next = current.next;
+
+        while (next != null) {
+
+            current.next = prev;
+            if (firstReverse) {
+
+                prev.next = null;
+                firstReverse = false;
+            }
+
+            prev = current;
+            current = next;
+            next = next.next;
+        }
         current.next = prev;
-        prev = current;
-        current = next;
+        list.head = current;
     }
-    current = prev;
-   
-}
+
 }
