@@ -7,20 +7,19 @@
 
 package HackerRank;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class Pairs {
 	public static int pairs(int[] a, int k){
-		int count =0;
-		int n = a.length;
-		for(int i=0;i<n;i++){
-			for(int j=0;j<n;j++){
-				if(a[i]-a[j] == Math.abs(k)){
-					count++;
-				}
-				
-			}
-		}
-		return count;
-		
+		Set<Integer> set = new HashSet<Integer>();
+	    int count = 0;
+	    for(int i : a){
+	        if(set.contains(i + k)) count++;
+	        if(set.contains(i - k)) count++;
+	        set.add(i);
+	    }
+	    return count;
 	}
 	
 	public static void main(String args[]){
