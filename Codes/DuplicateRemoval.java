@@ -8,7 +8,7 @@ Example: ABRACADABRA
 Returns: ABCDR
 */
 
-package stringpractice;
+
 
 import java.util.*;
 

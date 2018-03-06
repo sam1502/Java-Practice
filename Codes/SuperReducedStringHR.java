@@ -1,4 +1,4 @@
-package CodeGameIn;
+
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package HackerRank;
+
 //Manipulating numbers is at the core of a programmer's job. To test how well you know their properties, you are asked to solve the following problem.
 //You are given n non-negative integers a1,a2, ...,an. You want to know whether it's possible to construct a new integer using all the digits of these numbers such that it would be divisible by . 
 //You can reorder the digits as you want. The resulting number can contain leading zeros.

@@ -3,7 +3,6 @@
 //The apple tree is to the left of his house, and the orange tree is to its right.
 //You can assume the trees are located on a single point, where the apple tree is at point a and the orange tree is at point b.
 
-package HackerRank;
 
 import java.util.Scanner;
 
