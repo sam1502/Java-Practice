@@ -20,6 +20,7 @@ class loop_LinkedList {
             fast = fast.next.next;
  
             if (slow == fast) {
+            	System.out.println(slow.data);
                 removeLoop(slow, node);
                 return 1;
             }
