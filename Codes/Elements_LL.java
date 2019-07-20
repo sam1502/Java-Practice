@@ -1,3 +1,4 @@
+/*
 // Counting the Number of Elements in a Linked List.
 //Iterative Solution
 class Node
@@ -41,3 +42,4 @@ class Elements_LL
                            llist.getCount());
     }
 }
+*/

@@ -1,4 +1,5 @@
-// Recursive Java program to count number of nodes in 
+/*
+// Recursive Java program to count number of nodes in
 // a linked list
 
 class Node
@@ -40,4 +41,4 @@ class LinkedList_Recursive
         System.out.println("Count of nodes is " +
                            lList.getCount());
     }
-}
+}*/
